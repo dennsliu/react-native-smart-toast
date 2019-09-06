@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-smart-toast@^1.1.1",
+        "scope": null,
+        "escapedName": "react-native-smart-toast",
+        "name": "react-native-smart-toast",
+        "rawSpec": "^1.1.1",
+        "spec": ">=1.1.1 <2.0.0",
+        "type": "range"
+      },
+      "/Users/seahinet/projects/weareone_app"
+    ]
+  ],
+  "_from": "react-native-smart-toast@>=1.1.1 <2.0.0",
+  "_id": "react-native-smart-toast@1.1.1",
+  "_inCache": true,
+  "_location": "/react-native-smart-toast",
+  "_nodeVersion": "6.0.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-smart-toast-1.1.1.tgz_1474508672005_0.5323325644712895"
+  },
+  "_npmUser": {
+    "name": "cyqresig",
+    "email": "moonsunfall@aliyun.com"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-smart-toast@^1.1.1",
+    "scope": null,
+    "escapedName": "react-native-smart-toast",
+    "name": "react-native-smart-toast",
+    "rawSpec": "^1.1.1",
+    "spec": ">=1.1.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-smart-toast/-/react-native-smart-toast-1.1.1.tgz",
+  "_shasum": "19fde8b8cc862bcd72e1143f79c42615f1fd1796",
+  "_shrinkwrap": null,
+  "_spec": "react-native-smart-toast@^1.1.1",
+  "_where": "/Users/seahinet/projects/weareone_app",
+  "author": {
+    "name": "HISAME SHIZUMARU"
+  },
+  "bugs": {
+    "url": "https://github.com/react-native-component/react-native-smart-toast/issues"
+  },
+  "dependencies": {
+    "react-native-smart-timer-enhance": "^1.0.2"
+  },
+  "description": "A android like toast for react-native apps",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "19fde8b8cc862bcd72e1143f79c42615f1fd1796",
+    "tarball": "https://registry.npmjs.org/react-native-smart-toast/-/react-native-smart-toast-1.1.1.tgz"
+  },
+  "gitHead": "83ddd35d4747ac50027aac720f1cc3036f5028f2",
+  "homepage": "https://github.com/react-native-component/react-native-smart-toast#readme",
+  "keywords": [
+    "react-native",
+    "smart",
+    "toast",
+    "component"
+  ],
+  "license": "MIT",
+  "main": "Toast.js",
+  "maintainers": [
+    {
+      "name": "cyqresig",
+      "email": "moonsunfall@aliyun.com"
+    }
+  ],
+  "name": "react-native-smart-toast",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-component/react-native-smart-toast.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.1"
+}
